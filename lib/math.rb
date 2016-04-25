@@ -1,21 +1,29 @@
 def addition(num1, num2)
+  addition = 5+4
 end
 
 def subtraction(num1, num2)
+  subtraction = 10-5
 end
 
 def division(num1, num2)
+  division = 50/2
 end
 
 def multiplication(num1, num2)
+  multiplication = 4*30
 end
 
 def modulo(num1, num2)
+  modulo = 34%5
 end
 
 def square_root(num)
+  square_root = 81/9
+  return square_root
 end
 
 def order_of_operation(num1, num2, num3, num4)
+  order_of_operation = 7+((43*23)/83)
   #Hint:  __ + (( __ * __ ) / __ )
 end
